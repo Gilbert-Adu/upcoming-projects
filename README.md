@@ -1,4 +1,4 @@
-# upcoming-projects
+# available-projects
 
 1. Personal website: https://gilbertadu-b36a6.web.app/
 
